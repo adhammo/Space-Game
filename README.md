@@ -3,7 +3,7 @@
  A Simple **Space Shooter** Game made with ***C++*** and **Standard Windows Libraries**.
 
 ### Frame from The Game
-```bash
+```java
 ##########################################
 #     <[]>                               #
 #      ..              +                 #
